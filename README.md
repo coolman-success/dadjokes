@@ -1,5 +1,7 @@
 # dadjokes
 
+Nuxt.js example application which fetch jokes from https://icanhazdadjoke.com/.
+
 ## Build Setup
 
 ```bash
